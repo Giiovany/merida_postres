@@ -1,7 +1,0 @@
-MÉRIDA — PLANTILLA BASE
-Incluye index.html, styles.css y script.js.
-La carpeta imagenes está lista para recibir las fotografías definitivas.
-Los espacios beige son marcadores provisionales; más adelante los cambiaremos por fotos.
-El carrusel de productos se desplaza lentamente hacia la izquierda y se pausa al pasar el cursor.
-La historia de Mérida es un texto provisional y debe aprobarse antes de publicar.
-Para GitHub Pages, sube los tres archivos a la raíz del repositorio y activa Settings > Pages.
